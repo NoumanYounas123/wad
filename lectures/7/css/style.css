@@ -1,6 +1,14 @@
 #main {
-    /* add CSS here */
+	width :300px;
+	 margin :auto;
+
+     
 }
 .pet {
-    /* add CSS here */
+  border:1rem solid blue; 
+cursor: pointer;
+ -webkit-box-shadow: 23px 28px 64px 1px rgba(18,51,0,0.64);
+-moz-box-shadow: 23px 28px 64px 1px rgba(18,51,0,0.64);
+box-shadow: 23px 28px 64px 1px rgba(18,51,0,0.64);
+border-radius: 50px;
 }
